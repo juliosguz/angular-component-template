@@ -1,0 +1,7 @@
+var COMPONENT = {
+  templateUrl: ''
+}
+
+angular
+  .module('')
+  .component('COMPONENT', COMPONENT);

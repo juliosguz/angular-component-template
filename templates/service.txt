@@ -1,0 +1,7 @@
+function SERVICE() {
+
+}
+
+angular
+  .module('')
+  .service('SERVICE', SERVICE);

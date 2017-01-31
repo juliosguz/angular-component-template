@@ -1,0 +1,7 @@
+function CONTROLLER() {
+
+}
+
+angular
+  .module('')
+  .controller('CONTROLLER', CONTROLLER);

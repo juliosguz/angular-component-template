@@ -1,0 +1,22 @@
+{
+  "name": "angular-component-template",
+  "version": "0.0.1",
+  "description": "Create component for AngularJS 1.6.x",
+  "main": "index.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosguz/angular-component-template.git"
+  },
+  "author": "@juliosguz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliosguz/angular-component-template/issues"
+  },
+  "homepage": "https://github.com/juliosguz/angular-component-template#readme"
+}
