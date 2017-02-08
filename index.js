@@ -55,7 +55,7 @@ co(function *(){
 
   componentFiles.forEach(function(element, index) {      
     if ( element.file ) {
-      var template = fs.readFileSync( './templates/' + element.name + '.txt' , 'utf8');      
+      var template = fs.readFileSync( __dirname + '/templates/' + element.name + '.txt' , 'utf8');      
       fs.writeFile(componentDirectory + '/' + element.file, template, function() {
         console.log(element.file + ' created!');
       });

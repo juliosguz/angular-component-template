@@ -1,6 +1,6 @@
 {
   "name": "angular-component-template",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create component for AngularJS 1.6.x",
   "main": "index.js",
   "dependencies": {
